@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+   }
+  
+  body {
+    background: #f0edea;
+    color: #000000;
+    font-size: 14px;
+    margin: 30px 30px;
+    
+}
+    .logo{
+     
+     
+        font-size: 28px;
+        color: rgb(0, 0, 0);;
+      text-align: center;
+      padding-top: 17px;
+      padding-bottom: 13px;
+    }
+    
+    
+    .head2{
+        padding-top: 20px;
+        text-align: center;
+        font-size: 30px;
+        font-weight: 550;
+         font-style: italic;
+         color: black;
+         text-decoration: underline;}
+   
+.white{
+    background-color: white;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    font-family: calibri;
+    line-height: 48px;
+    
+}
+.signup{
+font-size: 30px;
+text-align: center;
+}
+.mail{
+    font-size: 20px;
+}
+.number{
+    font-size: 20px;
+}
+.agree{
+    font-size: 20px;
+    text-align: justify;
+}
+
+input[type="submit"]{
+    background-color: black;
+    color: white;
+    padding: 12px 20px;
+    border: 2px;
+    border-radius: 50px;
+    cursor: pointer;
+float: right;
+    width: 15%;
+}
+input[type="submit"]:hover{
+    background-color: blueviolet;
+}
+.tou{
+    font-size: 20px;
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+

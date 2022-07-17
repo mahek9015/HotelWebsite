@@ -1,0 +1,28 @@
+body {
+    background: #f0edea;
+    color: #000000;
+    font-size: 14px;
+    margin: 30px 30px;
+
+  }
+  .head2{
+    padding-top: 20px;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 550;
+     font-style: italic;
+     color: black;
+     text-decoration: underline;}
+      .description{
+        text-decoration: none;
+        text-align:left;
+        padding: 10px 30px;
+        word-spacing: 2px;
+        line-height: 25px;
+        font-size: 20px;
+        font-family: calibri;
+       margin-left: 30px;
+        margin-right: 30px;
+        
+      }
+      
